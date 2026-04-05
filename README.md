@@ -1,6 +1,6 @@
 Hey @readers, here’s a look at the Meta Ads Analytics Agent we recently built to automate our reporting:
 
-## Key Project Mechanics
+## Project Mechanics
 * **The Motivation**: We needed a reliable way to automate our analytics process seamlessly across varying timelines, whether that’s a weekly check-in or a comprehensive monthly report.
 * **Data Analyst Agent**: This agent fetches raw Meta API data and standardizes it.
 * **Comms Lead Agent**: Takes that structured data and writes updates perfectly matching our brand voice.
