@@ -4,7 +4,8 @@ Hey there 👋, here’s a look at the Meta Ads Analytics Agent I recently built
 * **The Motivation**: I needed a reliable way to automate the analytics process seamlessly across varying timelines, whether that’s a weekly check-in or a comprehensive monthly report.
 * **Data Analyst Agent**: This agent fetches raw Meta API data and standardizes it.
 * **Comms Lead Agent**: Takes that structured data and writes updates perfectly matching the brand voice.
-* **Execution Setup**: I'm running this through OpenRouter using their open-source models. To keep things stable and ensure I don't trip over rate limits from OpenRouter's free tiers, I’ve set a strict `max_rpm` limit on the LLMs. Both agents also operate at a 0.0 temperature constraint to lock down the precise tone and and reduce hallucinations in the output.
+* **Execution Setup**: I'm running this through OpenRouter using their open-source models. To keep things stable and ensure I don't trip over rate limits from OpenRouter's free tiers, I’ve set a strict `max_rpm` limit on the LLMs. Both agents also operate at a 0.0 temperature constraint to lock down the precise tone and reduce hallucinations in the output.
+* **V1 Limitations & Roadmap**: Since this is the first working draft I've pushed, the reporting dates (like "last_7d") and Meta API connectors are currently tied strictly to environment variables per execution. Moving forward, I’ll be scaling this into a more polished product, adding proper inputs so you can dynamically set custom date ranges and connect Meta accounts without having to manually swap out `.env` configurations.
 
 ## Performance Insights
 * **Clean Data Pipeline**: The first agent connects to the Meta Graph API via token, pulls active campaigns, and organizes metrics like spend, ROAS, varying CPPs, and total purchases. It explicitly relies on safe fallbacks so the pipeline stays robust even when ads are paused or fields run empty.
