@@ -1,4 +1,4 @@
-Hey @readers, here’s a look at the Meta Ads Analytics Agent we recently built to automate our reporting:
+Hey there 👋, here’s a look at the Meta Ads Analytics Agent I recently built to automate campaign reporting on Meta:
 
 ## Project Mechanics
 * **The Motivation**: We needed a reliable way to automate our analytics process seamlessly across varying timelines, whether that’s a weekly check-in or a comprehensive monthly report.
