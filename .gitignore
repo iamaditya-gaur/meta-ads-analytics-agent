@@ -1,0 +1,32 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ---- Virtual Environment ----
+.venv/
+venv/
+env/
+
+# ---- Environment & Secrets ----
+.env
+.env.*
+
+# ---- Generated Reports ----
+client_report.md
+report_output.txt
+
+# ---- Logs ----
+*.log
+
+# ---- IDE / Editor ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ---- Test / Dev Scratch Files ----
+test_*.py

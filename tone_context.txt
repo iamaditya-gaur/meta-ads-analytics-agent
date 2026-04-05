@@ -1,0 +1,127 @@
+"Hey @lectron fuel systems, last week on Meta (Mar 8 - Mar 15) we’ve spent around $4,204 with an average ROAS of 5.80. Our new cost cap campaign that I launched recently to replace the previous bid cap campaign has started spending with a 7+ ROAS so far, showing potential. In general, there’s been a slight increase in costs (CPCs & CPMs) compared to the past couple of weeks of improved performance where we saw our costs dropping down than our averages.
+ The current state is still good, especially given we’ve been able to gradually spend more this week due to cost cap campaign than what we generally do, resulting in a higher conversion value. I’ll continue to monitor and tweak the cost cap to maintain the volume and stability."
+
+ "Hey @lectron fuel systems, last week on Meta (Feb 8 - Feb 15) we’ve spent around $3,352 with an average ROAS of 7.72. Our new TOF Carb campaign that I recently launched has been picking up well with a good CPP and great ROAS (around 10) since the AOV is high. Our CPPs across all the campaigns were stable in the range of $60-70, the varying ROAS we see is from difference in AOV on individual campaigns.
+Also, the new DRT cylinder weekend campaign recorded 1 purchase with $76 CPP and a 12.37 ROAS due to a high AOV (around $940). Since this campaign doesn’t have past purchase exclusions, it will target a broader audience instead strictly TOF. I noticed there could be smaller tweaks that can be made (adding more audiences specifically to target MOF & BOF, improving tracking setup, testing with Flexible creative type etc) to further improve the performance, I could launch a new campaign for the same category if that makes sense without touching the current one if that sounds good?"
+
+"Hey @lectron fuel systems, last week on Meta (Mar 1 - Mar 8) we’ve spent around $3,664 with an average ROAS of 10.19. Our general campaigns have been performing well with a great cost per purchase and I’m running most of them at $110/day since we’re observing good performance.
+The bid cap carburetor campaign that I launched for scaling was throttling even with a $58 bid cap and not spending anything. To counter this, I’m testing with a new cost cap campaign (still manual bidding but a different structure to give us more leeway) which has spent some budget and has decent CPM but is yet to record any purchases. I’ll monitor this further for a day or two before making any changes to give it enough room to perform."
+
+"Hey @coffee beanery, last week on Meta (Jan 18 - Jan 25) we’ve spent around $4,052 with an average ROAS of 4.81. The AOV declined slightly about ~5% even though the CPPs were in a healthy range. The new Mixed creatives campaign I was testing has been doing good with a sub $10 CPP and I’m gradually bumping up spends here.
+Also, I have now updated all the catalog campaigns with a new catalog where we have excluded the products we were trying to block previously, moving forward this should resolve the unwanted products issue."
+
+"Hey @coffee beanery, last week on Meta (Jan 4 - Jan 11) we’ve spent around $3,320 with an average ROAS of 4.37. Our CPP continues to be in a decent range around $10-16 but to combat the lower AOV, I will be launching a new campaign with some video creatives that were recently uploaded to try and bring our CPP further down & give ROAS a potential boost. I’m planning to test the new Flexible creative type which has been showing potential for brands in general on Meta to optimize performance further.
+I’m also waiting for the new Coffee Shop FOM launch to add to our TOF since I can see some creatives are already up."
+
+"Hey @coffee beanery, last week on Meta (Feb 1– Feb 8) we spent around $4,060 with an average ROAS of 6.19. Our performance has improved, especially for the dynamic retargeting campaign that had dipped due to catalog changes, it’s now climbing back up. I’m also launching a new campaign testing the Coffee Shop Flavor of the Month creatives, and coupled with the upcoming Valentine’s sale, I’m hoping we’ll see a strong volume push with healthy performance."
+
+"Hey @lectron fuel systems, here’s the February 2026 Performance Summary from Meta:
+
+KEY PERFORMANCE METRICS
+Ad Spend: $12,077.44 (-12.98% from Jan)
+Purchases: 221 (+19.46% from Jan)
+Cost Per Purchase: $54.65 (-27.15% from Jan)
+ROAS: 8.62x (+16.38% from Jan)
+CPM: $4.91 (+1.58% from Jan)
+CPC: $0.64 (+3.37% from Jan)
+CTR: 0.77% (-1.73% from Jan)
+Adds to Cart: 1,573 (+26.04% from Jan)
+Cart to Checkout Rate: 15.64% (-15.51% from Jan)
+Checkout to Purchase Rate: 89.84% (+12.18% from Jan)
+AOV: $471.01 (-15.22% from Jan)
+
+PERFORMANCE INSIGHTS
+Efficiency-Led Growth: Despite spending 13% less in February, purchases grew by nearly 20%. Cost per purchase dropped sharply by 27.2% to $54.65, and ROAS jumped to 8.62x from 7.41x, this confirms budget optimization and creative refreshes drove meaningfully better returns on reduced spend.
+Strong Upper-Funnel Momentum: Adds to cart surged 26% month-over-month, indicating improved ad relevance and audience targeting. However, the cart-to-checkout rate declined by 15.5%, suggesting mid-funnel drop-off that might warrants attention if any major changes were made to the funnel recently (eg checkout UX, shipping costs, or landing page experience).
+Improved Close Rate: The checkout-to-purchase rate improved by 12.2% to 89.84%, meaning that users who reached checkout converted at a higher rate than January. This partially offsets the cart-to-checkout drop and reflects stronger purchase intent among those entering the final funnel stage.
+AOV hit: Average order value declined 15.2% to $471.01. While the total revenue held roughly flat (+1.3%), the lower AOV means growth is being driven by volume rather than higher-value orders. This trend should be watched, if it continues, upsell strategies or product bundling could help protect revenue quality.
+The new DRT Cylinder Head campaigns, while small in budget share (~4.8%), delivered an impressive 9.54–12.78x ROAS, indicating the 3-day budget push is working in our favor.
+
+Also, since we have experienced good cost per purchase across our carburetor campaigns, I’m testing with a new manual bid campaign with a higher budget, launched last week. The idea here is to take our current winning campaigns and scale them while limiting the downsides, i.e. only spending when we have a favorable cost per purchase."
+
+"Hey @coffee beanery, here’s the February 2026 Performance Summary from Meta:
+
+Key Performance Metrics
+Ad Spend: $15,150.54 (+3.97% from Jan)
+Purchases: 1,423 (-7.18% from Jan)
+Cost Per Purchase: $10.65 (+12.00% from Jan)
+ROAS: 5.61x (-5.78% from Jan)
+Total Revenue: $85,003.31 (-2.04% from Jan)
+Average Order Value: $59.74 (+5.53% from Jan)
+Adds to Cart: 8,192 (+4.70% from Jan)
+CPM: $11.31 (+11.23% from Jan)
+CTR: 6.25% (-4.31% from Jan)
+CPC: $0.52 (-15.94% from Jan)
+Cart to Checkout Rate: 7.58% (-8.61% from Jan)
+Checkout to Purchase Rate: 229.1% (-2.99% from Jan)
+
+Performance Insights
+Metrics adjusted for February: Total purchases declined 7.2% but February has 28 days vs. January’s 31. On a daily basis, purchases were nearly flat (+2.7% per day) and spend was meaningfully higher at $541/day vs. $470/day in January, a 15.1% increase in daily spends.
+CPM Pressure from Valentine’s Auction: CPM rose 11.2% to $11.31, a predictable seasonal effect due to Valentine’s Day and advertisers scaling up after January lows. Despite this, blended CPC improved 15.9% to $0.52, signaling decent creative performance, clicks got cheaper even as impressions got more expensive.
+AOV Lift: Average order value climbed to $59.74 (+5.5%). This partially cushioned the ROAS decline given the CPP increment from Jan.
+Funnel Friction at Checkout: Adds-to-cart grew 4.7%, but cart-to-checkout rate fell 8.6% and checkout-to-purchase rate declined 3.0%. More users are browsing and adding products but dropping before completing purchase, pointing to potential UX friction at checkout (shipping cost display, payment options, or page load speed).
+New Catalog Remarketing: This campaign surged from 17 purchases at a $24.89 CPP in January to 146 purchases at $13.60 CPP in February, and ROAS jumping from 1.80x to 7.04x. This indicates the campaign has stabalized after we made changes switching to the new catalog.
+
+Also, last week the FOM campaign launched in Feb was not picking up as well as our other FOM campaigns, hence I’ve replaced it with a new NY FOM launch. I’m also testing a new creative structure with flexible format of 3 types: 1 video and 2 static image ad sets. This is to combat the recent drawdown in CPP by finding and optimizing with the superior format, if this shows potential I will roll out this creative structure across other upcoming campaigns."
+
+"Hey @lectron fuel systems, here’s the January 2026 Performance Summary from Meta:
+
+Key Performance Metrics
+Ad Spend: $13,878.45 (+0.25% from Dec)
+ Purchases: 185 (+26.71% from Dec)
+ Cost Per Purchase: $75.02 (-20.89% from Dec)
+ ROAS: 7.41x (+44.89% from Dec)
+ CPM: $4.84 (-28.78% from Dec)
+ CTR: 0.78% (-13.98% from Dec)
+ Cart to Checkout Rate: 18.51% (+10.85% from Dec)
+ Checkout to Purchase Rate: 80.09% (-1.81% from Dec)
+ Average Order Value: $555.56 (+14.63% from Dec)
+
+Performance Insights
+Improved Performance Efficiency: With similar spending (+0.25%), purchases surged 26.7%, driving cost per purchase down 20.9% to $75.02. ROAS improved dramatically by 44.9% to 7.41x, representing a strong return on ad spend performance. Looking at Jan 1- 28 (excluding last 2 days that have been highlighted to over-attribution), the performance reported on Meta is still solid with a 6.30 ROAS.
+Premium Value Growth: Average order value increased significantly by 14.6% to $555.56, indicating customers are purchasing higher-value carburetors and fuel system components. This premium shift contributed substantially to the ROAS improvement.
+Post-Holiday Media Efficiency: CPM declined 28.8% to $4.84, reflecting reduced market competition in January. CPC also improved by 15.9%, while cost per add to cart dropped 13.9%, indicating enhanced top-of-funnel performance despite lower CTR.
+Improved Mid-Funnel Conversion: Cart-to-checkout rate improved 10.9% to 18.51%, showing better customer commitment and reduced mid-funnel friction. Checkout-to-purchase rate remained strong at 80.09% (only -1.8% decline), maintaining excellent final-stage conversion.
+
+Also last week was good, excluding the bump noticed on Jan 29 in our Intake Manifolds campaign completely, we still closed it around a 6.55 ROAS."
+
+"Hey @coffee beanery, here’s the January 2026 Performance Summary from Meta:
+
+Key Performance Metrics
+Ad Spend: $14,571.97 (-24.61% from Dec)
+ Purchases: 1,533 (-24.67% from Dec)
+ Cost Per Purchase: $9.51 (+0.08% from Dec)
+ ROAS: 5.95x (+5.53% from Dec)
+ CPM: $10.16 (-19.64% from Dec)
+ CTR: 5.05% (+23.53% from Dec)
+ Average Order Value: $56.61 (+5.62% from Dec)
+
+Performance Insights
+Post-Holiday Efficiency Gains: We decreased spends by 24.6% following the holiday season and cost per purchase remained virtually flat (+0.08%), demonstrating maintained efficiency despite reduced investment. ROAS improved by 5.5% to 5.95x, indicating stronger returns on scaled-back spending.
+Improved Traffic Quality: CTR increased significantly by 23.5% to 5.05%, while CPC dropped by 39.7% to $0.88, suggesting better audience targeting and creative performance. Cost per add to cart also improved by 29.6%.
+Higher Customer Value: Average order value increased by 5.6% to $56.61, this helped us boost the overall ROAS as well.
+Funnel Performance Shifts: Cart-to-checkout rate declined by 25.5% to 8.29%, suggesting increased mid-funnel friction that requires attention. However, checkout-to-purchase rate remained strong at 236.21% (only -5.6% decline), indicating minimal drop-off at final conversion stage.
+Better CPMs: CPM decreased by 19.6% to $10.16, reflecting lower competition in the post-holiday period and allowing for more cost-effective reach and impressions.
+
+Also, last week was good with a 6.33 ROAS. After updating all the campaigns with the new catalog to stop serving unwanted products, I’ve noticed a drop in performance specifically in our dynamic remarketing campaign, which has all catalog ads. I’ve made some changes to the copy to add more variations and limited the spends for now, will be monitoring this to bring up the performance."
+
+"Hey @coffee beanery, here’s the December 2025 Performance Summary from Meta:
+Key Performance Metrics
+Ad Spend: $19, 327.63 (+13.81% from Nov)
+Purchases: 2, 035 (+ 0.94% from Nov)
+Cost Per Purchase: $9.50 (+12.75% from Nov)
+ROAS: 5.64x (-21.84% from Nov)
+CPM: $12.65 (-6.54% from Nov)
+CTR (Link): 1.55% (+19.64% from Nov)
+CPC (Link): $0.81 (-21.87% from Nov)
+Cart to Checkout Rate: 11.13% (+16.71% from Nov)
+Checkout to Purchase Rate: 250.31% (+22.28% from Nov)
+Average Order Value: $53.59 (-11.88% from Nov)
+
+Performance Insights
+• Scaling Pressure on Efficiency: We increased our ad spend by 13.8% to capture peak holiday traffic. However, purchase volume remained nearly flat (+0.9%), due to the Cost Per Purchase rising 12.7% to $9.50 due to competitive holiday window. While still profitable, this indicates that the marginal cost of customer acquisition increased as the budget was scaled due to holiday season.
+• Resonant Creative & Lower Traffic Costs: Despite the competitive December auction, we successfully lowered our CPM by 6.5% and significantly improved the link click-through rate (CTR) by 19.6%. This drove the average CPC down to $0.81 (a 21.9% improvement), demonstrating that the holiday-themed creative and offers were highly effective at engaging the audience.
+• Revenue Headwinds from Lower AOV: The overall ROAS saw a 21.8% decline, largely influenced by an 11.9% drop in Average Order Value (AOV), which fell from $60.82 in November to $53.59 in December. This could be because of a higher propensity towards lower-priced gift items or the impact of seasonal discounts on the total revenue per transaction.
+• High-Intent Bottom Funnel Conversion: Although the total volume of “Adds to Cart” decreased by 29%, the traffic reaching the bottom of the funnel was much more efficient.
+Both the Cart-to-Checkout and Checkout-to-Purchase rates saw double-digit growth, indicating that December shoppers were more decisive and had a higher intent to finalize their transactions."
+
